@@ -1,0 +1,2 @@
+# EOSConfig
+Mainnet configuration files
